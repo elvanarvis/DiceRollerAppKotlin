@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DiceRollerAppKotlin</string>
+    <string name="dice_text">yuvarla</string>
+</resources>
